@@ -30,6 +30,12 @@ delivery_time.corr()
     Sorting Time	0.825997	1.000000
 
 Step 2: (Visualing)
+    
+    ![image](https://user-images.githubusercontent.com/110924299/220840837-8cabde37-2b38-41d6-b661-777c7c9df87d.png)
+    ![image](https://user-images.githubusercontent.com/110924299/220840914-38a641f2-d2a1-4857-a968-f286eeb8ee05.png)
+    ![image](https://user-images.githubusercontent.com/110924299/220840976-2352b6ba-137d-49ba-885a-336a350aea09.png)
+    ![image](https://user-images.githubusercontent.com/110924299/220841107-e4893ab5-cccc-4cee-8505-900a65481c64.png)
+
 
 Step 3: (Modeling and Evaluating with R-Squared error)
 
@@ -63,7 +69,11 @@ Salary.info()
     dtypes: float64(2)
     memory usage: 608.0 bytes
 Step 2: (Visualing)
+    
+    ![image](https://user-images.githubusercontent.com/110924299/220841291-ddba7a16-677f-4310-89d9-29b502a64197.png)
+    ![image](https://user-images.githubusercontent.com/110924299/220841241-454cf6a4-83c2-49c0-81db-1887028b62eb.png)
 
+    
 Step 3: (Modeling and Evaluating with R-Squared error)
 
     - Building Simple Linear Regression model
