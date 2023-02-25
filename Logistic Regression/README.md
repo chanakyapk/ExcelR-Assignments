@@ -23,7 +23,11 @@ Problem :Whether the client has subscribed a term deposit or not
     Recall Score
     F1- Score
 * Confusion Matrix
+
+
 ![image](https://user-images.githubusercontent.com/110924299/221340587-04f03bd0-ce3f-4c9b-aa10-94f5ffea151f.png)
 * ROC curve
+
+
 ![image](https://user-images.githubusercontent.com/110924299/221340608-119ea8fc-1917-475b-a5e7-68cd4a1e982e.png)
 
