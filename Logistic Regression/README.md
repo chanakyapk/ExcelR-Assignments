@@ -15,7 +15,7 @@ Problem :Whether the client has subscribed a term deposit or not
 * Visualizing Data
 ![image](https://user-images.githubusercontent.com/110924299/221340569-473164cc-f8ba-429d-aca7-f2799ad17576.png)
 
-* Modeling with complete data
+* Modeling with  complete data
 * Evaluating
     ```
     Accuracy Score
