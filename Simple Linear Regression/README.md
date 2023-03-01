@@ -87,4 +87,4 @@ Step 4: (Applying imputations)
     - Second, Log on dependent Features
     - Third, adding squared value in independent Features
 
-#### Unimputed model gave best r-squared value of 0.95
+#### Unimputed model gave best r-squared value 0.95
